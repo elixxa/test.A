@@ -84,8 +84,8 @@
 
 ![image](https://github.com/elixxa/test.A/blob/main/%D0%B5%D0%B6.jpg)
 
-![Аннотация](https://github.com/elixxa/test.A/blob/main/%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98_%D0%9E_%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%98%D0%A2.pdf)
+![Аннотация](https://github.com/elixxa/test.A/blob/main/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98_%D0%9E_%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%98%D0%A2.pdf)
 
-![Презентация](https://github.com/elixxa/test.A/blob/main/%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98_%D0%9E_%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%98%D0%A2.pdf)
+![Презентация](https://github.com/elixxa/test.A/blob/main/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98_%D0%9E_%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%98%D0%A2.pdf)
 
 <img src="https://github.com/elixxa/test.A/blob/main/%D0%B5%D0%B6.jpg" width=100px height=100px>
